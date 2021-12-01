@@ -17,7 +17,7 @@ STORY ID	  CATEGORY	  TITLE	                    USER STORY	                     
 1	          HOD	        Authentication	          HOD can access the dash board after login		
 2	          HOD	        Create / delete Staff	  Create / delete staff in department 
                                                           only giving username and password		
-3	          HOD	        Create / delete Student 	Create / delete student in department 
+3	          HOD	        Create / delete Student  Create / delete student in department 
                                                           only giving username and password		
 4	          HOD	        Manage student profile	  Manage the student profile (If tutor)		
 5	          HOD	        Attendance	              Update the attendance details of each student		
