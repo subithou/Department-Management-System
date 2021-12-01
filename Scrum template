@@ -15,10 +15,10 @@ VISIT : https://docs.google.com/spreadsheets/d/1gvWF4BGsK4GSA-lCgEqICqqRU1dJenls
 STORY ID	  CATEGORY	  TITLE	                    USER STORY	                                                VALUE       	SPRINT
 -----------------------------------------------------------------------------------------------------------------------------------
 1	          HOD	        Authentication	          HOD can access the dash board after login		
-2	          HOD	        Create / delete Staff	    Create / delete staff in department 
-                                                  only giving username and password		
+2	          HOD	        Create / delete Staff	  Create / delete staff in department 
+                                                          only giving username and password		
 3	          HOD	        Create / delete Student 	Create / delete student in department 
-                                                  only giving username and password		
+                                                          only giving username and password		
 4	          HOD	        Manage student profile	  Manage the student profile (If tutor)		
 5	          HOD	        Attendance	              Update the attendance details of each student		
 6         	HOD	        Mark	                    Upload / remove the marks of exams		
