@@ -16,4 +16,6 @@ Source code
 -----------
 The source code is available in the branch 'Source-code'.
 
-https://github.com/subithou/Department-Management-System/tree/Source-code
+or
+
+Visit : https://github.com/subithou/Department-Management-System/tree/Source-code
