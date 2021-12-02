@@ -3,7 +3,7 @@
 
 Functions
 ---------
-Manage student, staff, hod in the department.
+Manage student, staff & hod in the department.
 
 Source code 
 -----------
