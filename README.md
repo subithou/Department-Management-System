@@ -1,9 +1,15 @@
 # Department-Management-System
 ------------------------------
 
-Functions
+Features
 ---------
 Manage student, staff & hod in the department.
+
+Tools used
+----------
+1.Django framework : https://www.djangoproject.com/
+2.Sqlite : https://www.sqlite.org/index.html
+
 
 Source code 
 -----------
