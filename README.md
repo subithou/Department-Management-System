@@ -12,6 +12,11 @@ Tools used
 2. Sqlite : https://www.sqlite.org/index.html
 
 
+Scrum Template
+--------------
+Visit : https://docs.google.com/spreadsheets/d/1gvWF4BGsK4GSA-lCgEqICqqRU1dJenlsfcI4myG5wlc/edit?usp=sharing
+
+
 Source code 
 -----------
 The source code is available in the branch 'Source-code'.
