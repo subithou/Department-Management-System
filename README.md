@@ -1,5 +1,6 @@
 # Department-Management-System
 ------------------------------
+  It is a Web application to manage the department activities and the data including student details such as their marks, attendance, activity points, resume, skill sets and faculty details.
 
 Features
 ---------
