@@ -20,7 +20,7 @@ Visit : https://docs.google.com/spreadsheets/d/1gvWF4BGsK4GSA-lCgEqICqqRU1dJenls
 
 Source code 
 -----------
-The source code is available in the branch 'Source-code'.
+The source code is available in the other branch 'Source-code'.
 
 or
 
