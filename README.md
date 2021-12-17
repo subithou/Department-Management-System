@@ -33,7 +33,7 @@ Scrum Report(Project Progress Report)
 
 **Bug Report**
 --------------
-**Visit** : https://docs.google.com/spreadsheets/d/1gvWF4BGsK4GSA-lCgEqICqqRU1dJenlsfcI4myG5wlc/edit?usp=sharing
+**Visit** : https://docs.google.com/spreadsheets/d/1gvWF4BGsK4GSA-lCgEqICqqRU1dJenlsfcI4myG5wlc/edit#gid=1480770333
 
 
 
