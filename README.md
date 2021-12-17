@@ -10,10 +10,10 @@ Tools used
 ----------
 1. Django framework : https://www.djangoproject.com/
 
-2. Sqlite : https://www.sqlite.org/index.html
+2. Mongodb : https://www.mongodb.com/
 
 
-Scrum Template
+Scrum details(Project progress details)
 --------------
 Visit : https://docs.google.com/spreadsheets/d/1gvWF4BGsK4GSA-lCgEqICqqRU1dJenlsfcI4myG5wlc/edit?usp=sharing
 
