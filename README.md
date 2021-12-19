@@ -22,6 +22,10 @@ Tools Used
 
 3. **Database**
     * Mongodb : https://www.mongodb.com/
+    * Locally run : https://www.mongodb.com/try/download/compass
+    
+4. **IDE used**
+    * PyCharm : https://www.jetbrains.com/pycharm/download/
 
 
 
