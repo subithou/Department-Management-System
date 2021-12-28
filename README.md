@@ -21,11 +21,14 @@ Tools Used
     * Python Django framework : https://www.djangoproject.com/
 
 3. **Database**
-    * Mongodb : https://www.mongodb.com/
+    (Postgresql is using at the time of development)
+    * Postgresql- version 10.19 : https://www.enterprisedb.com/postgresql-tutorial-resources-training?uuid=ea5c8104-3940-4ed1-b427-81cf19781581&campaignId=70138000000rYFmAAM   
+    * Mongodb : https://www.mongodb.com/ (Only use at the time of deployment)
     * Locally run : https://www.mongodb.com/try/download/community
     
 4. **IDE used**
     * PyCharm : https://www.jetbrains.com/pycharm/download/
+    * Visual Studio Code : https://code.visualstudio.com/download
 
 
 
