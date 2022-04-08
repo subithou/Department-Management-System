@@ -48,4 +48,4 @@ Source Code
 -----------
 The source code is available in.
 
-**Visit** : subithou/project_DMS
+**Visit** : https://github.com/subithou/project_DMS.git
