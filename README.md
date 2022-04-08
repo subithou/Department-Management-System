@@ -46,8 +46,6 @@ Scrum Report(Project Progress Report)
 
 Source Code 
 -----------
-The source code is available in the other branch 'Source-code'.
+The source code is available in.
 
-or
-
-**Visit** : https://github.com/subithou/Department-Management-System/tree/Source-code
+**Visit** : subithou/project_DMS
